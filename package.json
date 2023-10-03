@@ -1,0 +1,13 @@
+{
+  "name": "Catto RPC V1,
+  "version": "1.0.0",
+  "description": "Changing RPC made by rs, insanely small part of the code r skidded from an oldass selfbot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "discord.js-selfbot-v13": "2.6.14"
+  }
+}
