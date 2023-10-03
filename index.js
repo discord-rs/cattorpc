@@ -1,3 +1,7 @@
+// url1, name1, detail1, state1, etc etc will be your first rpc.
+// url2, name2, detail2, state2, etc etc will be your second rpc.
+// you get the point, don't you?
+
 const Discord = require('discord.js-selfbot-v13');
 const client = new Discord.Client({
     checkUpdate: false
